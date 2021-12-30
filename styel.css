@@ -1,0 +1,31 @@
+#headingDJ{
+    font-size: 35px;
+    }
+    #notee{
+        font-size: 20px;
+        color: red;
+    }
+    .MSO{
+        float: left;
+    }
+    #diskS{
+        width: 200px;
+        border-radius: 100px;
+    }
+    .MVO{
+        float: right;
+    }
+    #diskV{
+        width: 200px;
+        border-radius: 100px;
+    }
+    #play{
+        width: 130px;
+        font-size: 25px;
+    }
+    canvas{
+        border: 5px dashed wheat;
+        border-radius: 20px;
+        margin-top: 110px;
+    }
+    
